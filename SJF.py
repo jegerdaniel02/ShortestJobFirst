@@ -138,3 +138,5 @@ def findSJF(time):
         gtime=time
 for i in range(0,count):
     findSJF(gtime)
+
+    #test
